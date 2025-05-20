@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background: #d91a20;
+background: linear-gradient(357deg, rgba(217, 26, 32, 1) 0%, rgba(93, 199, 87, 1) 50%, rgba(83, 104, 237, 1) 100%) no-repeat;
+}
+
+.avatar{
+    width: 280px; 
+    border: 8px solid #d91a20;
+    background: linear-gradient(204deg, rgba(217, 26, 32, 1) 0%, rgba(35, 32, 186, 1) 51%, rgba(237, 83, 83, 1) 100%);;
+    border-radius: 200px;
+}
