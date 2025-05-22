@@ -12,3 +12,11 @@ background: linear-gradient(357deg, rgba(217, 26, 32, 1) 0%, rgba(93, 199, 87, 1
     background: linear-gradient(204deg, rgba(217, 26, 32, 1) 0%, rgba(35, 32, 186, 1) 51%, rgba(237, 83, 83, 1) 100%);;
     border-radius: 200px;
 }
+.todo-conteudo{
+    margin: auto;
+    width: 600px;
+}
+
+.meuslinks{
+    text-align: center;
+}
